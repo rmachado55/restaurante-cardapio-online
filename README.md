@@ -14,5 +14,5 @@ https://rmachado55.github.io/restaurante-cardapio-online/
 - Estilização (SASS + ClassName + CSS Modules);
 - Absolute Path para import de imagens e Absolute Path para facilitar os Imports;
 
-# TS / React.JS / SASS
+## TS / React.JS / SASS
 Feito a partir de exercício da Alura em Setembro 2022. 
