@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/restaurante-cardapio-online/static/css/main.9394120f.css",
+    "main.js": "/restaurante-cardapio-online/static/js/main.ca5b9d86.js",
+    "static/media/header.png": "/restaurante-cardapio-online/static/media/header.b657dd083e14f631a54c.png",
+    "index.html": "/restaurante-cardapio-online/index.html",
+    "main.9394120f.css.map": "/restaurante-cardapio-online/static/css/main.9394120f.css.map",
+    "main.ca5b9d86.js.map": "/restaurante-cardapio-online/static/js/main.ca5b9d86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9394120f.css",
+    "static/js/main.ca5b9d86.js"
+  ]
+}
