@@ -1,4 +1,4 @@
-#SITE COMPLETO DE UM RESTAURANTE
+# SITE COMPLETO DE UM RESTAURANTE
 Projeto em TYPESCRIPT recriando a experiência de usuário de um site de restaurante (Cardápio / Busca e classificação dos pratos / Ordenar por critérios etc...)
 https://rmachado55.github.io/restaurante-cardapio-online/
 
