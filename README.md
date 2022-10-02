@@ -3,11 +3,11 @@ Projeto em TYPESCRIPT recriando a experiência de usuário de um site de restaur
 https://rmachado55.github.io/restaurante-cardapio-online/
 
 ## UTILIZAÇÃO
-- Navegue livremente pelas opções de pratos e utilize:
+- Navegue livremente ppelas opções de pratos e utilize:
   - Barra de Busca para buscar termos (case INsensitive);
   - Filtros por categorias ("Massas", "Carnes" etc...);
   - Ordenar por Preço, Quantidade de Pessoas que a porção serve etc...;
-  - Projeto responsivo. Experimente também em telas menores;
+  - Navegação pelos Links '/cardapio', '/sobre' feitos com React Router
   
 ## TÓPICOS ABORDADOS
 - Desenvolvido em React.JS com diversas bibliotecas: React Routes 6, Normalize, ReactIcons, useState, useEffect, useParams, SVGR etc...
