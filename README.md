@@ -10,9 +10,10 @@ https://rmachado55.github.io/restaurante-cardapio-online/
   - Projeto responsivo. Experimente também em telas menores;
   
 ## TÓPICOS ABORDADOS
-- Desenvolvido em React.JS com diversas bibliotecas: Normalize, ReactIcons, useState, useEffect, SVGR etc...
-- Estilização (SASS + ClassName + CSS Modules);
-- Absolute Path para import de imagens e Absolute Path para facilitar os Imports;
+- Desenvolvido em React.JS com diversas bibliotecas: React Routes 6, Normalize, ReactIcons, useState, useEffect, useParams, SVGR etc...
+- Estilização (SASS + ClassName);
+- Absolute Path para import de imagens
+- Absolute Import tornando os paths de importação relativos a um mesmo diretório;
 
 ## TS / React.JS / SASS
 Feito a partir de exercício da Alura em Setembro 2022. 
