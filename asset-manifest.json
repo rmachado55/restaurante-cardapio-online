@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/restaurante-cardapio-online/static/css/main.9394120f.css",
-    "main.js": "/restaurante-cardapio-online/static/js/main.037c1b60.js",
+    "main.css": "/restaurante-cardapio-online/static/css/main.abd88488.css",
+    "main.js": "/restaurante-cardapio-online/static/js/main.688a2b3f.js",
     "static/media/header.png": "/restaurante-cardapio-online/static/media/header.b657dd083e14f631a54c.png",
+    "static/media/nossa_casa.png": "/restaurante-cardapio-online/static/media/nossa_casa.3fce23b5f216aa3d377f.png",
+    "static/media/massa1.png": "/restaurante-cardapio-online/static/media/massa1.b54a937ecf33911a10be.png",
+    "static/media/massa2.png": "/restaurante-cardapio-online/static/media/massa2.b09406c9ad829e55deda.png",
+    "static/media/casa.png": "/restaurante-cardapio-online/static/media/casa.7ddc1385bed0c778a098.png",
+    "static/media/not_found.svg": "/restaurante-cardapio-online/static/media/not_found.7b4ce636d908d279067896828a6b49bf.svg",
     "index.html": "/restaurante-cardapio-online/index.html",
-    "main.9394120f.css.map": "/restaurante-cardapio-online/static/css/main.9394120f.css.map",
-    "main.037c1b60.js.map": "/restaurante-cardapio-online/static/js/main.037c1b60.js.map"
+    "main.abd88488.css.map": "/restaurante-cardapio-online/static/css/main.abd88488.css.map",
+    "main.688a2b3f.js.map": "/restaurante-cardapio-online/static/js/main.688a2b3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9394120f.css",
-    "static/js/main.037c1b60.js"
+    "static/css/main.abd88488.css",
+    "static/js/main.688a2b3f.js"
   ]
 }
